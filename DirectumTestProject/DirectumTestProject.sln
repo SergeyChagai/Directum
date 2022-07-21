@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.32630.194
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DirectumTestProject", "DirectumTestProject\DirectumTestProject.csproj", "{6BB62A23-D52C-4348-82BC-9855BD8FDD32}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DirectumNetwork", "DirectumNetwork\DirectumNetwork.csproj", "{D16AC2D5-3A88-4916-AF8E-B6D486B58ACC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibrariesTests", "LibrariesTests\LibrariesTests.csproj", "{4A6CABED-FDEA-4373-8465-1DCD0D2E3C52}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,6 +21,14 @@ Global
 		{6BB62A23-D52C-4348-82BC-9855BD8FDD32}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6BB62A23-D52C-4348-82BC-9855BD8FDD32}.Release|Any CPU.Build.0 = Release|Any CPU
 		{6BB62A23-D52C-4348-82BC-9855BD8FDD32}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{D16AC2D5-3A88-4916-AF8E-B6D486B58ACC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D16AC2D5-3A88-4916-AF8E-B6D486B58ACC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D16AC2D5-3A88-4916-AF8E-B6D486B58ACC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D16AC2D5-3A88-4916-AF8E-B6D486B58ACC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A6CABED-FDEA-4373-8465-1DCD0D2E3C52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A6CABED-FDEA-4373-8465-1DCD0D2E3C52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A6CABED-FDEA-4373-8465-1DCD0D2E3C52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A6CABED-FDEA-4373-8465-1DCD0D2E3C52}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

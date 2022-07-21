@@ -4071,25 +4071,28 @@ namespace DirectumTestProject
 			public const int up = 2131230949;
 			
 			// aapt resource value: 0x7F0800E6
-			public const int useLogo = 2131230950;
+			public const int uri = 2131230950;
 			
 			// aapt resource value: 0x7F0800E7
-			public const int view_offset_helper = 2131230951;
+			public const int useLogo = 2131230951;
 			
 			// aapt resource value: 0x7F0800E8
-			public const int view_tree_saved_state_registry_owner = 2131230952;
+			public const int view_offset_helper = 2131230952;
 			
 			// aapt resource value: 0x7F0800E9
-			public const int visible = 2131230953;
+			public const int view_tree_saved_state_registry_owner = 2131230953;
 			
 			// aapt resource value: 0x7F0800EA
-			public const int visible_removing_fragment_view_tag = 2131230954;
+			public const int visible = 2131230954;
 			
 			// aapt resource value: 0x7F0800EB
-			public const int withText = 2131230955;
+			public const int visible_removing_fragment_view_tag = 2131230955;
 			
 			// aapt resource value: 0x7F0800EC
-			public const int wrap_content = 2131230956;
+			public const int withText = 2131230956;
+			
+			// aapt resource value: 0x7F0800ED
+			public const int wrap_content = 2131230957;
 			
 			static Id()
 			{
@@ -4347,40 +4350,43 @@ namespace DirectumTestProject
 			public const int design_text_input_password_icon = 2131427373;
 			
 			// aapt resource value: 0x7F0B002E
-			public const int mtrl_layout_snackbar = 2131427374;
+			public const int downloader = 2131427374;
 			
 			// aapt resource value: 0x7F0B002F
-			public const int mtrl_layout_snackbar_include = 2131427375;
+			public const int mtrl_layout_snackbar = 2131427375;
 			
 			// aapt resource value: 0x7F0B0030
-			public const int notification_action = 2131427376;
+			public const int mtrl_layout_snackbar_include = 2131427376;
 			
 			// aapt resource value: 0x7F0B0031
-			public const int notification_action_tombstone = 2131427377;
+			public const int notification_action = 2131427377;
 			
 			// aapt resource value: 0x7F0B0032
-			public const int notification_template_custom_big = 2131427378;
+			public const int notification_action_tombstone = 2131427378;
 			
 			// aapt resource value: 0x7F0B0033
-			public const int notification_template_icon_group = 2131427379;
+			public const int notification_template_custom_big = 2131427379;
 			
 			// aapt resource value: 0x7F0B0034
-			public const int notification_template_part_chronometer = 2131427380;
+			public const int notification_template_icon_group = 2131427380;
 			
 			// aapt resource value: 0x7F0B0035
-			public const int notification_template_part_time = 2131427381;
+			public const int notification_template_part_chronometer = 2131427381;
 			
 			// aapt resource value: 0x7F0B0036
-			public const int select_dialog_item_material = 2131427382;
+			public const int notification_template_part_time = 2131427382;
 			
 			// aapt resource value: 0x7F0B0037
-			public const int select_dialog_multichoice_material = 2131427383;
+			public const int select_dialog_item_material = 2131427383;
 			
 			// aapt resource value: 0x7F0B0038
-			public const int select_dialog_singlechoice_material = 2131427384;
+			public const int select_dialog_multichoice_material = 2131427384;
 			
 			// aapt resource value: 0x7F0B0039
-			public const int support_simple_spinner_dropdown_item = 2131427385;
+			public const int select_dialog_singlechoice_material = 2131427385;
+			
+			// aapt resource value: 0x7F0B003A
+			public const int support_simple_spinner_dropdown_item = 2131427386;
 			
 			static Layout()
 			{
@@ -4563,6 +4569,9 @@ namespace DirectumTestProject
 			
 			// aapt resource value: 0x7F0D0030
 			public const int status_bar_notification_info_overflow = 2131558448;
+			
+			// aapt resource value: 0x7F0D0031
+			public const int uri_hint = 2131558449;
 			
 			static String()
 			{
